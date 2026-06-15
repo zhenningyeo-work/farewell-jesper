@@ -5,7 +5,7 @@
 window.CARD_CONFIG = {
   // Who is the card for? Fills the page title, the heading, and the
   // "Leave a note for ___" prompt.
-  recipientName: "Sarah",
+  recipientName: "Jesper",
 
   // Tagline shown under the heading.
   subtitle: "A board full of love from your CB team",
